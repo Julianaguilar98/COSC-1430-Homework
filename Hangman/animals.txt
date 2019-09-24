@@ -1,0 +1,8 @@
+giraffe
+lion
+tiger
+whale
+monkey
+gorilla
+parakeet
+owl
